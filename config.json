@@ -1,5 +1,5 @@
 {
   "projectType":"javascript",
-  "chromedriverPath":"-d driver",
+  "chromedriverPath":"-d driver"
   
 }
