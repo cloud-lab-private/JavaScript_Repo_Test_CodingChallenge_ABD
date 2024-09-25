@@ -65,7 +65,7 @@ public class SeleniumTest {
 
     }
 
-    /*@Test
+    *@Test
     public void testButton2Text2() {
         WebElement text2 = driver.findElement(By.id("text2"));
 
@@ -73,7 +73,7 @@ public class SeleniumTest {
 
         // Find button 2 and click it
         WebElement button2 = driver.findElement(By.id("button2"));
-        button2.click();*/
+        button2.click();
 
     }
 
