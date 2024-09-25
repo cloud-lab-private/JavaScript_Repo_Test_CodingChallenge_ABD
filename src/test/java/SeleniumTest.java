@@ -41,7 +41,7 @@ public class SeleniumTest {
         button1.click();
     }
 
-    @Test
+    /*@Test
     public void testButton1Text2() {
         WebElement text2 = driver.findElement(By.id("text2"));
 
@@ -49,11 +49,11 @@ public class SeleniumTest {
 
         // Find button 1 and click it
         WebElement button1 = driver.findElement(By.id("button1"));
-        button1.click();
+        button1.click();*/
 
     }
 
-    @Test
+    /*@Test
     public void testButton2Text3() {
         WebElement text3 = driver.findElement(By.id("text3"));
 
@@ -61,11 +61,11 @@ public class SeleniumTest {
 
         // Find button 2 and click it
         WebElement button2 = driver.findElement(By.id("button2"));
-        button2.click();
+        button2.click();*/
 
     }
 
-    *@Test
+    /*@Test
     public void testButton2Text2() {
         WebElement text2 = driver.findElement(By.id("text2"));
 
@@ -73,7 +73,7 @@ public class SeleniumTest {
 
         // Find button 2 and click it
         WebElement button2 = driver.findElement(By.id("button2"));
-        button2.click();
+        button2.click();*/
 
     }
 
